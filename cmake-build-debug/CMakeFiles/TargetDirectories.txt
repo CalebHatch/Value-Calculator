@@ -1,0 +1,3 @@
+C:/Users/Caleb/Documents/Projects/Value-Calculator/cmake-build-debug/CMakeFiles/Value_Calculator.dir
+C:/Users/Caleb/Documents/Projects/Value-Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Caleb/Documents/Projects/Value-Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
